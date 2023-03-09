@@ -1,0 +1,15 @@
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\bin\Debug\net7.0\VicTechTask.exe
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\bin\Debug\net7.0\VicTechTask.deps.json
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\bin\Debug\net7.0\VicTechTask.runtimeconfig.json
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\bin\Debug\net7.0\VicTechTask.dll
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\bin\Debug\net7.0\VicTechTask.pdb
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.csproj.AssemblyReference.cache
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.AssemblyInfoInputs.cache
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.AssemblyInfo.cs
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.csproj.CoreCompileInputs.cache
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.dll
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\refint\VicTechTask.dll
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.pdb
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\VicTechTask.genruntimeconfig.cache
+C:\Users\Brooky\RiderProjects\VicTechTask\VicTechTask\obj\Debug\net7.0\ref\VicTechTask.dll
